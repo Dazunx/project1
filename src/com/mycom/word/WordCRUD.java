@@ -151,6 +151,22 @@ public class WordCRUD implements ICRUD{
 	}
 	
 	public void saveFile() {
+		PrintWriter pr;
+		try {
+			pr = new PrintWriter(new FileWriter("Dictionary.txt"));
+			for(Word one : list) {
+				pr.write(one.toFileString() + "\n");
+			}
+			pr.close();
+			System.out.println("==> 데이터 저장 완료!!!");
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+
+
+		System.out.print("==> 원하는 단어는? ");
+		String keyword = s.next();
+		listAll(keyword);		
 	}
 
 	public void searchLevel() {
