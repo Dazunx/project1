@@ -1,0 +1,48 @@
+3|superintendent|관리자, 감독관
+1|electric|전기의, 전기를 생산하는
+1|apple|사과
+2|culture|문화,교양
+1|experience|경험
+2|education|교육
+1|symbol|상징
+2|effect|결과,영향,효과
+3|liberty|자유
+3|affair|사건,일
+2|comfort|안락,위안
+1|tradition|전통,전설
+2|subject|학과,주제,주어
+2|object|사물,목적,반대하다
+2|source|출처,근원
+2|revolution|혁명
+3|pollution|오염
+2|system|조직,체계,지도
+3|triumph|승리
+1|respect|존경, 존경하다
+2|communication|전달,교통
+3|foundation|기초
+3|glory|영광
+2|situation|상황
+1|competition|경쟁
+3|prairie|대초원
+2|effort|노력
+1|section|부분,구역
+3|rein|고삐
+1|solution|해결,용해
+1|honor|명예/경의,존경하다
+3|unity|통일/일치
+2|population|인구
+1|direction|방향,지시
+3|dialog|대화
+3|republic|공화국
+2|method|방법
+1|decrease|감소,감소하다
+2|amount|양,액수,총계
+1|ancestor|조상,선조
+3|voyage|항해
+2|sculpture|조각(품)
+3|instrument|기계,기구,도구
+2|figure|숫자,계산,모습,인물
+1|activity|활동
+1|cause|원인,이유
+2|worth|가치,~에 가치가 있는
+1|accident|사고,뜻밖의 사건
