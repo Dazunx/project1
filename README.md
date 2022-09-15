@@ -52,5 +52,5 @@ project1 결과 화면
 
 메뉴 1. 모든 단어 보기 (메뉴 실행 후)
 
-<img src="/screenshots/menu1_result.png">
-<img src="/screenshots/menu1_result_2.png">
+<img src="/screenshots/menu1_result1.png">
+<img src="/screenshots/menu1_result2.png">
