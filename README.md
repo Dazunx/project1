@@ -50,7 +50,7 @@ project1 결과 화면
 
 
 
-메뉴 1. 모든 단어 보기 (메뉴 실행 후)
+메뉴 1. 모든 단어 보기 (24번 단어 뜻이 상황으로 바뀜, 38번 increase 단어 삭제됨.)
 
 <img src="/screenshots/menu1_result1.png">
 <img src="/screenshots/menu1_result2.png">
